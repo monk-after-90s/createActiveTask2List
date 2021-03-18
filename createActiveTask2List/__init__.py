@@ -1,3 +1,3 @@
-from .createActiveTask2List import create_active_task_to_list
+from .createActiveTask2List import createActiveTask2List
 
-__all__ = ['create_active_task_to_list']
+__all__ = ['createActiveTask2List']
