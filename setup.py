@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="createActiveTask2List",
-    version="1.0.0",
+    version="1.1",
     author="Antas",
     author_email="",
     description="Create asyncio.Task instance to a list, until it is done.",
