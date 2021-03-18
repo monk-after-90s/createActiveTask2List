@@ -1,2 +1,3 @@
-# create_active_task_to_list
-Create asyncio.Task instance to a list, until it is done.
+# createActiveTask2List
+
+Create asyncio.Task instance to the target list, in which tasks are reserved until they are done.
